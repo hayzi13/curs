@@ -1,0 +1,6 @@
+c:\users\ido-class2\documents\visual studio 2015\Projects\zxc\zxc\bin\Debug\zxc.exe.config
+c:\users\ido-class2\documents\visual studio 2015\Projects\zxc\zxc\bin\Debug\zxc.exe
+c:\users\ido-class2\documents\visual studio 2015\Projects\zxc\zxc\bin\Debug\zxc.pdb
+c:\users\ido-class2\documents\visual studio 2015\Projects\zxc\zxc\obj\Debug\zxc.csprojResolveAssemblyReference.cache
+c:\users\ido-class2\documents\visual studio 2015\Projects\zxc\zxc\obj\Debug\zxc.exe
+c:\users\ido-class2\documents\visual studio 2015\Projects\zxc\zxc\obj\Debug\zxc.pdb
